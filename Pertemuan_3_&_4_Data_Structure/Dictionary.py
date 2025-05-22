@@ -28,3 +28,6 @@ print(f"isi semua data dictionary : {siswas}")
 siswas["teknik"] = ["mesin","elektro"]
 siswas["teknik"] = 2
 print(f"isi semua data dictionary : {siswas}")
+
+# ambil semua key
+print(f"Ambil semua key dictionary : {siswas.keys()}")
