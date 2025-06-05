@@ -139,7 +139,5 @@ def main():
                 break
             case _ :
                 errorMessage()
-
-
 if __name__ == "__main__":
     main()
